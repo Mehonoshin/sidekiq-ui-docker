@@ -1,4 +1,4 @@
-FROM mexx/ruby-base:rpi
+FROM mexx/ruby-base
 MAINTAINER Stanislav Mekhonoshin <ejabberd@gmail.com>
 
 COPY . /app/
